@@ -42,7 +42,7 @@ def getMadLibContent()
 	madlibcontent = contentTypes[scenario]
 end
 	
-puts "Welcome to TeochewThunder's MadLib!"
+puts "Welcome to TeochewThunder's Mad Libs!"
 
 continue = ""
 begin
