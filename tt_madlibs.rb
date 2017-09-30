@@ -1,7 +1,7 @@
 def getMadLibContent()
 	contentTypes = [ 
 			{
-				"story" => "While eating %s, I %s took up my %s and placed it under my %s. it %s %s.",
+				"story" => "While eating %s, I %s took up my %s and placed it under my %s. It %s %s.",
 				"words" => [
 					"food (e.g, pie, noodles, shortcake)",
 					"adverb (e.g, happily, carefully, quickly)",
