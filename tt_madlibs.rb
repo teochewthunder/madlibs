@@ -56,7 +56,7 @@ begin
 	end
 
 	puts "Here is your story:"
-	p content['story'] % userProvided
+	puts content['story'] % userProvided
 
 	puts "Do you wish to continue? (Y/N)"
 	continue = gets.chomp
